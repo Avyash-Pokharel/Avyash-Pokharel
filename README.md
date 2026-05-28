@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Avyash-Pokharel
-- 👀 I’m interested in Web Design and Devlopment
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in Data Analytics
 - 📫 How to reach me Email me @ avyash13@gmail.com
 - 😄 Pronouns: He/Him
 
